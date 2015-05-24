@@ -29,7 +29,7 @@ makeCacheMatrix <- function(x=matrix()) {
 }
 
 ## This function checks if matrix has been passed before. if yes, inverse is returned from cache
-## otherwise calculated
+## otherwise calculates it
 
 ## Write a short comment describing this function
 
